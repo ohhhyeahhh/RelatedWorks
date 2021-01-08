@@ -11,7 +11,15 @@ Self-Trained Deep Ordinal Regression for End-to-End Video Anomaly Detection ([pa
 
 
 ### ECCV
-### NIPS
+Few-Shot Scene-Adaptive Anomaly Detection ([paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2983_ECCV_2020_paper.php))([code](https://github.com/yiweilu3/Few-shot-Scene-adaptive-Anomaly-Detection))
+
+Clustering Driven Deep Autoencoder for Video Anomaly Detection ([paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2341_ECCV_2020_paper.php))
+
+Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images ([paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3484_ECCV_2020_paper.php))([code](https://github.com/ClancyZhou/P_Net_Anomaly_Detection))
+
+Backpropagated Gradient Representations for Anomaly Detection ([paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3689_ECCV_2020_paper.php))
+
+Neural Batch Sampling with Reinforcement Learning for Semi-Supervised Anomaly Detection ([paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/5576_ECCV_2020_paper.php))
 ### AAAI
 
 ## 2019年
