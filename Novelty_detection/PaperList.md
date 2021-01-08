@@ -3,9 +3,9 @@
 ### AAAI
 LREN: Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection
 
-GAN Ensemble for Anomaly Detection
+GAN Ensemble for Anomaly Detection ([paper](https://arxiv.org/pdf/2012.07988))([code](https://github.com/tufts-ml/GAN-Ensemble-for-Anomaly-Detection))
 
-Regularizing Attention Networks for Anomaly Detection in Visual Question Answering
+Regularizing Attention Networks for Anomaly Detection in Visual Question Answering ([paper](https://arxiv.org/pdf/2009.10054))([code](https://github.com/LeeDoYup/Anomaly_Detection_VQA))
 
  Appearance-Motion Memory Consistency Network for Video Anomaly Detection
  
@@ -15,7 +15,7 @@ Regularizing Attention Networks for Anomaly Detection in Visual Question Answeri
  
  Time Series Anomaly Detection with Multiresolution Ensemble Decoding
  
- Few-Shot One-Class Classification via Meta-Learning
+ Few-Shot One-Class Classification via Meta-Learning ([paper](https://arxiv.org/pdf/2007.04146))
 
 ## 2020年
 ### CVPR
@@ -82,3 +82,15 @@ Transfer Anomaly Detection by Inferring Latent Domain Representations ([paper](h
 
 Statistical Analysis of Nearest Neighbor Methods for Anomaly Detection ([paper](https://proceedings.neurips.cc/paper/2019/hash/805163a0f0f128e473726ccda5f91bac-Abstract.html))
 
+### AAAI
+Temporal anomaly detection: calibrating the surprise ([paper](https://arxiv.org/abs/1705.10085))([code](https://github.com/eyalgut/TLR_anomaly_detection))([TDA data set](https://www.kaggle.com/eyalgut/binary-traffic-matrices))
+
+Robust Anomaly Detection in Videos using Multilevel Representations ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4456/4334))([code](https://github.com/SeaOtter/vad_gan))
+
+Multi-View Anomaly Detection: Neighborhood in Locality Matters ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4418/4296))
+
+Learning Competitive and Discriminative Reconstructions for Anomaly Detection ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/4451/4329))
+
+A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3942/3820))
+
+One-Class Adversarial Nets for Fraud Detection ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3924/3802))([code](https://github.com/PanpanZheng/OCAN))
