@@ -16,6 +16,12 @@ Regularizing Attention Networks for Anomaly Detection in Visual Question Answeri
  Time Series Anomaly Detection with Multiresolution Ensemble Decoding
  
  Few-Shot One-Class Classification via Meta-Learning ([paper](https://arxiv.org/pdf/2007.04146))
+ 
+ ### WACV
+Deep Unsupervised Anomaly Detection ([paper](https://openaccess.thecvf.com/content/WACV2021/html/Li_Deep_Unsupervised_Anomaly_Detection_WACV_2021_paper.html))
+
+Driver Anomaly Detection: A Dataset and Contrastive Learning Approach ([paper](https://openaccess.thecvf.com/content/WACV2021/html/Kopuklu_Driver_Anomaly_Detection_A_Dataset_and_Contrastive_Learning_Approach_WACV_2021_paper.html))([code](https://github.com/okankop/Driver-Anomaly-Detection))
+
 
 ## 2020年
 ### CVPR
@@ -57,6 +63,23 @@ Adaptive Anomaly Detection for IoT Data in Hierarchical Edge Computing ([paper](
 
 Transfer Learning for Anomaly Detection through Localized and Unsupervised Instance Selection Vincent Vercruyssen ([paper](https://aaai.org/ojs/index.php/AAAI/article/view/6068/5924))([code](https://github.com/Vincent-Vercruyssen/LocIT))
 
+### WACV
+Multi-class Novelty Detection Using Mix-up Technique ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Bhattacharjee_Multi-class_Novelty_Detection_Using_Mix-up_Technique_WACV_2020_paper.html))
+ 
+Reverse Variational Autoencoder for Visual Attribute Manipulation and Anomaly Detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Lydia_Reverse_Variational_Autoencoder_for_Visual_Attribute_Manipulation_and_Anomaly_Detection_WACV_2020_paper.html))([code](https://github.com/nianlonggu/reverse_variational_autoencoder))
+ 
+Adversarial Discriminative Attention for Robust Anomaly Detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html))
+ 
+Street Scene: A new dataset and evaluation protocol for video anomaly detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Ramachandra_Street_Scene_A_new_dataset_and_evaluation_protocol_for_video_WACV_2020_paper.html))
+ 
+Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.html))([code](https://github.com/alexiajm/relativisticgan))
+
+### ACCV
+A Day on Campus - An Anomaly Detection Dataset for Events in a Single Camera ([paper](https://openaccess.thecvf.com/content/ACCV2020/html/Pranav_A_Day_on_Campus_-_An_Anomaly_Detection_Dataset_for_ACCV_2020_paper.html))
+
+Patch SVDD: Patch-level SVDD for Anomaly Detection and Segmentation ([paper](https://openaccess.thecvf.com/content/ACCV2020/html/Yi_Patch_SVDD_Patch-level_SVDD_for_Anomaly_Detection_and_Segmentation_ACCV_2020_paper.html))([code](https://github.com/nuclearboy95/Anomaly-Detection-PatchSVDD-PyTorch))
+
+
 ## 2019年
 ### CVPR
 Where's Wally Now_ Deep Generative and Discriminative Embeddings for Novelty Detection ([paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.pdf))
@@ -94,3 +117,10 @@ Learning Competitive and Discriminative Reconstructions for Anomaly Detection ([
 A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3942/3820))
 
 One-Class Adversarial Nets for Fraud Detection ([paper](https://www.aaai.org/ojs/index.php/AAAI/article/view/3924/3802))([code](https://github.com/PanpanZheng/OCAN))
+
+### ICCV
+Anomaly Detection in Video Sequence With Appearance-Motion Correspondence ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Nguyen_Anomaly_Detection_in_Video_Sequence_With_Appearance-Motion_Correspondence_ICCV_2019_paper.html))
+
+Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.html))
+
+GODS: Generalized One-Class Discriminative Subspaces for Anomaly Detection ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.html))
