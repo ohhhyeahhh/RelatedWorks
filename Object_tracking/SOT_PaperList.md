@@ -8,6 +8,12 @@
 - **SiamAttn**: Deformable Siamese Attention Networks for Visual Object Tracking.
 - **CGACD**: Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 - **Siam R-CNN**: Visual Tracking by Re-Detection.[[code](http://www.vision.rwth-aachen.de/page/siamrcnn)]
+'''
+将Faster-RCNN 结合到 Siamese系列跟踪,用RPN网络提取出ROI，将当前帧所有ROI与第一帧的GT的ROI cat进行re-detection，选定得分较高的boxes，再与上一帧的boxes两两组合（距离满足条件），再次Re-detection，得到更精确的boxes(有相似目标就有几率会有多个box)。将检测到的目标通过关联的方式形成跟踪轨迹链，如果一但有干扰目标存在，那么开辟一条新轨迹，最后得到多条轨迹，根据相邻轨迹之间首尾，尾首目标中心之间的距离来判断是否是同一条轨迹，最终得到目标的最终轨迹。
+优点：long-term的测试效果则非常好
+缺点：由于re-detection采用级联RCNN，精度高，但速度低
+'''
+
 - **PrDiMP**: Probabilistic Regression for Visual Tracking. [[code](https://github.com/visionml/pytracking)]
 - Recursive Least-Squares Estimator-Aided Online Learning for Visual Tracking. [[code](https://github.com/Amgao/RLS-RTMDNet)]
 - **ROAM**: Recurrently Optimizing Tracking Model. [[code](https://github.com/skyoung/ROAM)]
