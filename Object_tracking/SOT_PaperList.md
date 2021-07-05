@@ -43,7 +43,7 @@
 - **MAST**: A Memory-Augmented Self-Supervised Tracker. [[code](https://github.com/zlai0/MAST)]
 
 ### ECCV
-- Learning Feature Embeddings for Discriminant Model based Tracking. 
+- Learning Feature Embeddings for Discriminant Model based Tracking. [[paper](https://arxiv.org/pdf/1906.10414v2)]
 - **CLNet**: A Compact Latent Network for Fast Adjusting Siamese Tracker. 
 - **Ocean**: Learning Object-aware Anchor-free Networks for Real-time Object Tracking. [[code](https://github.com/researchmm/TracKit)]
 - **PG-Net**: Pixel to Global Matching Network for
