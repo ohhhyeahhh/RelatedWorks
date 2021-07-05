@@ -1,4 +1,14 @@
 
+## 2021年
+### CVPR
+- **SiamGAT**:Graph Attention Tracking[[paper](https://arxiv.org/abs/2011.11204)][[code](https://github.com/ohhhyeahhh/SiamGAT)]
+- **Alpha-Refine**:Boosting Tracking Performance by Precise Bounding Box Estimation[[paper](https://arxiv.org/abs/2012.06815)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
+- **LightTrack**:Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
+- **STMTrack**:Template-free Visual Tracking with Space-time Memory Networks[[paper](https://arxiv.org/abs/2104.00324)][[code](https://github.com/fzh0917/STMTrack)]
+- Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark[[paper](https://arxiv.org/abs/2103.16746)]
+- **TransT**[[paper](https://arxiv.org/abs/2103.15436)][[code](https://github.com/chenxin-dlut/TransT)]
+- Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking[[paper](https://arxiv.org/pdf/2103.11681)]
+
 ## 2020年
 ### CVPR
 - **SiamCAR**: Siamese Fully Convolutional Classification and Regression for Visual Tracking [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Guo_SiamCAR_Siamese_Fully_Convolutional_Classification_and_Regression_for_Visual_Tracking_CVPR_2020_paper.html)][[code](https://github.com/ohhhyeahhh/SiamCAR)]
