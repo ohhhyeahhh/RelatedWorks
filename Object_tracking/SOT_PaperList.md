@@ -6,7 +6,7 @@
 - **LightTrack**:Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
 - **STMTrack**:Template-free Visual Tracking with Space-time Memory Networks[[paper](https://arxiv.org/abs/2104.00324)][[code](https://github.com/fzh0917/STMTrack)]
 - Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark[[paper](https://arxiv.org/abs/2103.16746)]
-- **TransT**[[paper](https://arxiv.org/abs/2103.15436)][[code](https://github.com/chenxin-dlut/TransT)]
+- **TransT**:Transformer Tracking[[paper](https://arxiv.org/abs/2103.15436)][[code](https://github.com/chenxin-dlut/TransT)]
 - Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking[[paper](https://arxiv.org/pdf/2103.11681)]
 
 ## 2020年
