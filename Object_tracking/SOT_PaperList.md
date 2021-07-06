@@ -5,7 +5,7 @@
 - **Alpha-Refine**:Boosting Tracking Performance by Precise Bounding Box Estimation[[paper](https://arxiv.org/abs/2012.06815)][[code](https://github.com/MasterBin-IIAU/AlphaRefine)]
 - **LightTrack**:Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search[[paper](https://arxiv.org/abs/2104.14545)][[code](https://github.com/researchmm/LightTrack)]
 - **STMTrack**:Template-free Visual Tracking with Space-time Memory Networks[[paper](https://arxiv.org/abs/2104.00324)][[code](https://github.com/fzh0917/STMTrack)]
-- **TNL2K**:Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark[[paper](https://arxiv.org/abs/2103.16746)]数据集
+- **TNL2K**:Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark[[paper](https://arxiv.org/abs/2103.16746)]
 - **TransT**:Transformer Tracking[[paper](https://arxiv.org/abs/2103.15436)][[code](https://github.com/chenxin-dlut/TransT)]
 - **TransformerTrack**:Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking[[paper](https://arxiv.org/pdf/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
 - **SNLT**:Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers[[paper](https://arxiv.org/pdf/1912.02048.pdf)][[code](https://github.com/fredfung007/snlt)]
@@ -13,7 +13,7 @@
 - **Re-SiamNet**:Rotation Equivariant Siamese Networks for Tracking[[paper](https://arxiv.org/abs/2012.13078)][[code](https://github.com/dkgupta90/re-siamnet)]
 - Progressive Unsupervised Learning for Visual Object Tracking[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
 - Learning To Filter: Siamese Relation Network for Robust Tracking[[paper](http://arxiv.org/abs/2104.00829)][[code](https://github.com/hqucv/siamrn)]
-- CapsuleRRT: Relationships-aware Regression Tracking via Capsules[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
+- **CapsuleRRT**: Relationships-aware Regression Tracking via Capsules[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
 
 
 ## 2020年
@@ -25,6 +25,7 @@
 - **SiamAttn**: Deformable Siamese Attention Networks for Visual Object Tracking.[[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Deformable_Siamese_Attention_Networks_for_Visual_Object_Tracking_CVPR_2020_paper.pdf)]
 - **CGACD**: Correlation-Guided Attention for Corner Detection Based Visual Tracking.
 - **Siam R-CNN**: Visual Tracking by Re-Detection.[[code](http://www.vision.rwth-aachen.de/page/siamrcnn)]
+
 '''
 将Faster-RCNN 结合到 Siamese系列跟踪,用RPN网络提取出ROI，将当前帧所有ROI与第一帧的GT的ROI cat进行re-detection，选定得分较高的boxes，再与上一帧的boxes两两组合（距离满足条件），再次Re-detection，得到更精确的boxes(有相似目标就有几率会有多个box)。将检测到的目标通过关联的方式形成跟踪轨迹链，如果一但有干扰目标存在，那么开辟一条新轨迹，最后得到多条轨迹，根据相邻轨迹之间首尾，尾首目标中心之间的距离来判断是否是同一条轨迹，最终得到目标的最终轨迹。
 优点：long-term的测试效果则非常好
