@@ -10,7 +10,7 @@
 - **TransformerTrack**:Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking[[paper](https://arxiv.org/pdf/2103.11681)][[code](https://github.com/594422814/TransformerTrack)]
 - **SNLT**:Siamese Natural Language Tracker: Tracking by Natural Language Descriptions with Siamese Trackers[[paper](https://arxiv.org/pdf/1912.02048.pdf)][[code](https://github.com/fredfung007/snlt)]
 - **IoU Attack**:Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking[[paper](https://arxiv.org/pdf/2103.14938.pdf)][[code](https://github.com/VISION-SJTU/IoUattack)]
-- **Re-SiamNet**:Rotation Equivariant Siamese Networks for Tracking[[paper](https://arxiv.org/abs/2012.13078)][[code](https://github.com/dkgupta90/re-siamnet)]
+- **RE-SiamNets**:Rotation Equivariant Siamese Networks for Tracking[[paper](https://arxiv.org/abs/2012.13078)][[code](https://github.com/dkgupta90/re-siamnet)]
 - Progressive Unsupervised Learning for Visual Object Tracking[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Progressive_Unsupervised_Learning_for_Visual_Object_Tracking_CVPR_2021_paper.pdf)]
 - Learning To Filter: Siamese Relation Network for Robust Tracking[[paper](http://arxiv.org/abs/2104.00829)][[code](https://github.com/hqucv/siamrn)]
 - **CapsuleRRT**: Relationships-aware Regression Tracking via Capsules[[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_CapsuleRRT_Relationships-Aware_Regression_Tracking_via_Capsules_CVPR_2021_paper.pdf)]
