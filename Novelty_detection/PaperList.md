@@ -129,5 +129,5 @@ GODS: Generalized One-Class Discriminative Subspaces for Anomaly Detection ([pap
 
 
 
-git update now[paper](www.baidu.com)
+说
 
