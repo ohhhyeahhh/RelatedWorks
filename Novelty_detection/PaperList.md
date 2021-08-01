@@ -8,15 +8,15 @@ GAN Ensemble for Anomaly Detection ([paper](https://arxiv.org/pdf/2012.07988))([
 Regularizing Attention Networks for Anomaly Detection in Visual Question Answering ([paper](https://arxiv.org/pdf/2009.10054))([code](https://github.com/LeeDoYup/Anomaly_Detection_VQA))
 
  Appearance-Motion Memory Consistency Network for Video Anomaly Detection
- 
+
  Learning Semantic Context from Normal Samples for Unsupervised Anomaly Detection
- 
+
  Graph Neural Network-Based Anomaly Detection in Multivariate Time Series
- 
+
  Time Series Anomaly Detection with Multiresolution Ensemble Decoding
- 
+
  Few-Shot One-Class Classification via Meta-Learning ([paper](https://arxiv.org/pdf/2007.04146))
- 
+
  ### WACV
 Deep Unsupervised Anomaly Detection ([paper](https://openaccess.thecvf.com/content/WACV2021/html/Li_Deep_Unsupervised_Anomaly_Detection_WACV_2021_paper.html))
 
@@ -65,13 +65,13 @@ Transfer Learning for Anomaly Detection through Localized and Unsupervised Insta
 
 ### WACV
 Multi-class Novelty Detection Using Mix-up Technique ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Bhattacharjee_Multi-class_Novelty_Detection_Using_Mix-up_Technique_WACV_2020_paper.html))
- 
+
 Reverse Variational Autoencoder for Visual Attribute Manipulation and Anomaly Detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Lydia_Reverse_Variational_Autoencoder_for_Visual_Attribute_Manipulation_and_Anomaly_Detection_WACV_2020_paper.html))([code](https://github.com/nianlonggu/reverse_variational_autoencoder))
- 
+
 Adversarial Discriminative Attention for Robust Anomaly Detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Kimura_Adversarial_Discriminative_Attention_for_Robust_Anomaly_Detection_WACV_2020_paper.html))
- 
+
 Street Scene: A new dataset and evaluation protocol for video anomaly detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Ramachandra_Street_Scene_A_new_dataset_and_evaluation_protocol_for_video_WACV_2020_paper.html))
- 
+
 Relativistic Discriminator: A One-Class Classifier for Generalized Iris Presentation Attack Detection ([paper](https://openaccess.thecvf.com/content_WACV_2020/html/Yadav_Relativistic_Discriminator_A_One-Class_Classifier_for_Generalized_Iris_Presentation_Attack_WACV_2020_paper.html))([code](https://github.com/alexiajm/relativisticgan))
 
 ### ACCV
@@ -124,3 +124,9 @@ Anomaly Detection in Video Sequence With Appearance-Motion Correspondence ([pape
 Memorizing Normality to Detect Anomaly: Memory-Augmented Deep Autoencoder for Unsupervised Anomaly Detection ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.html))
 
 GODS: Generalized One-Class Discriminative Subspaces for Anomaly Detection ([paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Gong_Memorizing_Normality_to_Detect_Anomaly_Memory-Augmented_Deep_Autoencoder_for_Unsupervised_ICCV_2019_paper.html))
+
+
+
+
+
+git update now
