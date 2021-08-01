@@ -1,6 +1,23 @@
 
 ## 2021年
+### CVPR
+
+Anomaly Detection in Video via Self-Supervised and Multi-Task Learning[paper](https://arxiv.org/abs/2011.07491)
+
+MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection[paper](https://arxiv.org/abs/2104.01633)
+
+CutPaste: Self-Supervised Learning for Anomaly Detection and Localization[paper](https://arxiv.org/abs/2104.04015)
+
+Pixel-wise Anomaly Detection in Complex Driving Scenes[paper](https://arxiv.org/pdf/2103.05445)
+
+PANDA: Adapting Pretrained Features for Anomaly Detection and Segmentation[paper](http://arxiv.org/abs/2010.05903)[code](https://github.com/talreiss/PANDA)
+
+Multiresolution Knowledge Distillation for Anomaly Detection[paper](https://arxiv.org/pdf/2011.11108)[code](https://github.com/Niousha12/Knowledge_Distillation_AD)
+
+
+
 ### AAAI
+
 LREN: Low-Rank Embedded Network for Sample-Free Hyperspectral Anomaly Detection
 
 GAN Ensemble for Anomaly Detection ([paper](https://arxiv.org/pdf/2012.07988))([code](https://github.com/tufts-ml/GAN-Ensemble-for-Anomaly-Detection))
