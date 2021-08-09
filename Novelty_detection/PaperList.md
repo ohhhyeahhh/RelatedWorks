@@ -1,7 +1,7 @@
 
 ## 2021年
 ### CVPR
-
+Inpainting Transformer for Anomaly Detection ([paper](https://arxiv.org/pdf/2104.13897v1.pdf))
 Anomaly Detection in Video via Self-Supervised and Multi-Task Learning[paper](https://arxiv.org/abs/2011.07491)
 
 MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection[paper](https://arxiv.org/abs/2104.01633)
