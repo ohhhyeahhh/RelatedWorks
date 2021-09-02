@@ -1,6 +1,15 @@
 
 ## 2021年
 ### CVPR
+
+A Comparison of Supervised and Unsupervised Deep Learning Methods for Anomaly Detection in Images([paper](https://arxiv.org/search/?query=A+Comparison+of+Supervised+and+Unsupervised+Deep+Learning+Methods+for+Anomaly+Detection+in+Images&searchtype=all&source=header))
+
+Learning Normal Dynamics in Videos with Meta Proto type Network([paper](https://arxiv.org/search/?query=Learning+Normal+Dynamics+in+Videos+with+Meta++Network&searchtype=all&abstracts=show&order=-announced_date_first&size=50))
+
+Weakly-Supervised Spatio-Temporal Anomaly Detection in Surveillance Video([paper](https://arxiv.org/search/?query=Weakly-Supervised+Spatio-Temporal+Anomaly+Detection+in+Surveillance+Video&searchtype=all&abstracts=show&order=-announced_date_first&size=50))
+
+Transfer Learning Gaussian Anomaly Detection by Fine-Tuning Representations（[paper](https://arxiv.org/search/?query=Transfer+Learning+Gaussian+Anomaly+Detection+by+Fine-Tuning+Representations&searchtype=all&source=header)）
+
 Inpainting Transformer for Anomaly Detection ([paper](https://arxiv.org/pdf/2104.13897v1.pdf))
 
 Anomaly Detection in Video via Self-Supervised and Multi-Task Learning[paper](https://arxiv.org/abs/2011.07491)
